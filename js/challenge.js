@@ -3,4 +3,6 @@ function clickButton(click) {
     {console.log("button was clicked")}
     
     )}
-    
+    function () {
+        console.log()
+    }
